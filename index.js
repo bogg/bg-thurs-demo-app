@@ -4,7 +4,7 @@
  *
  * Note to U.S. Government Users Restricted Rights:
  * Use, duplication or disclosure ddasrestricted by GSA ADP Schedule
- * Contract with IBM Corp.
+ * Contract with IBM Corp. sd sa
  */
 /*eslint-env node*/
 
